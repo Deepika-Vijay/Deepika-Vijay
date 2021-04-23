@@ -1,5 +1,4 @@
-
-![avatar](https://user-images.githubusercontent.com/56197190/113016999-4fc33780-917f-11eb-9a86-80eca5cc4b19.png)
+![Github_Image](https://user-images.githubusercontent.com/56197190/115883137-be797500-a44d-11eb-93fa-d5d6106cfac7.jpg)
 
 # Hi there 👋🏽
 
@@ -21,3 +20,4 @@ I'm currently working on fintech predictions and covid analyses - Quite the cont
 
 ## Check out my articles
 [Beginner-friendly scraping with BeautifulSoup](https://medium.com/analytics-vidhya/beginner-friendly-scraping-with-beautifulsoup-8e0642cbf3ec?sk=7ef0dce279c4cddcfff4480b16c4c755)
+[A Covid Analysis](https://towardsdatascience.com/a-covid-analysis-9c8f7f9ea474?sk=9132133cb8189ad681abbddb630bd7ce)
