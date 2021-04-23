@@ -20,4 +20,5 @@ I'm currently working on fintech predictions and covid analyses - Quite the cont
 
 ## Check out my articles
 [Beginner-friendly scraping with BeautifulSoup](https://medium.com/analytics-vidhya/beginner-friendly-scraping-with-beautifulsoup-8e0642cbf3ec?sk=7ef0dce279c4cddcfff4480b16c4c755)
+
 [A Covid Analysis](https://towardsdatascience.com/a-covid-analysis-9c8f7f9ea474?sk=9132133cb8189ad681abbddb630bd7ce)
